@@ -192,7 +192,7 @@ async function claimTask(wallet, taskId, proxyAgent, token) {
 }
 
 async function handleTasks(wallet, claimedTasks, proxyAgent, token) {
-  const requiredTasks = ["task001", "task002", "task003"];
+  const requiredTasks = ["task001", "task002", "task003", "task101"];
   const missingTasks = requiredTasks.filter(task => !claimedTasks.includes(task));
 
   if (missingTasks.length === 0) {
