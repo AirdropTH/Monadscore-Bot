@@ -3,10 +3,10 @@ A fully automated bot designed to update Monadscorenode start times for multiple
 
 ## Features
 
-✅ Automated Updates – Runs daily at 7 AM, ensuring wallets stay active.
-✅ Proxy Support – Uses proxies from proxy.txt to enhance anonymity.
-✅ Wallet Management – Reads and processes wallet addresses from wallets.txt
-✅ Retry & Delay Mechanism – Implements randomized delays and retries to handle API failures smoothly.
+- Automated Updates – Runs daily at 7 AM, ensuring wallets stay active.
+- Proxy Support – Uses proxies from proxy.txt to enhance anonymity.
+- Wallet Management – Reads and processes wallet addresses from wallets.txt
+- Retry & Delay Mechanism – Implements randomized delays and retries to handle API failures smoothly.
 
 ## Prerequisites
 
